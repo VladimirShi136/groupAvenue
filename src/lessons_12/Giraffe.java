@@ -20,5 +20,6 @@ public class Giraffe extends Animal {
     @Override
     public void sleep() {
         System.out.println("Сплю долго");
+
     }
 }
