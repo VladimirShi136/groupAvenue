@@ -70,4 +70,6 @@ public class Coin {
         return "Монета: номинал - " + nominal + ", год выпуска - " + year +
                 ", металл - " + metal + ", диаметр - " + diameter + ".";
     }
+
+
 }

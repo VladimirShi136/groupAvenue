@@ -41,5 +41,6 @@ public class ClassWork {
         System.out.println("Есть ширина и длина стола, есть ширина и длина комнаты.\n" +
                 "Сколько столов влезет в комнату?");
         System.out.println("В комнате поместится: " + quantityOfTable + " столов");
+
     }
 }
